@@ -1,0 +1,45 @@
+.tittle-list-user {
+    color: #24049a;
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+}
+
+.action-list-user-header {
+    float: right !important;
+}
+
+.btn-other {
+    float: right;
+    background-color: #24049a !important;
+    color: #ffffff !important;
+}
+
+.btn-create {
+    float: right;
+    margin-left: 10px;
+    background-color: #24049a !important;
+    color: #ffffff !important;
+}
+
+.form-search {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-search {
+    margin-top: 25px;
+    background-color: #24049a !important;
+    color: #ffffff !important;
+}
+
+
+.search-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-input {
+    width: 200px !important;
+}
