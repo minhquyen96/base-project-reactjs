@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/base-project-reactjs/static/css/main.b22c0019.chunk.css",
+    "main.js": "/base-project-reactjs/static/js/main.a0363f87.chunk.js",
+    "main.js.map": "/base-project-reactjs/static/js/main.a0363f87.chunk.js.map",
+    "runtime~main.js": "/base-project-reactjs/static/js/runtime~main.c3193bc2.js",
+    "runtime~main.js.map": "/base-project-reactjs/static/js/runtime~main.c3193bc2.js.map",
+    "static/css/2.4358233e.chunk.css": "/base-project-reactjs/static/css/2.4358233e.chunk.css",
+    "static/js/2.2bb5f16f.chunk.js": "/base-project-reactjs/static/js/2.2bb5f16f.chunk.js",
+    "static/js/2.2bb5f16f.chunk.js.map": "/base-project-reactjs/static/js/2.2bb5f16f.chunk.js.map",
+    "index.html": "/base-project-reactjs/index.html",
+    "precache-manifest.ed8f8aa69c0846ebf669bddaea7aaac8.js": "/base-project-reactjs/precache-manifest.ed8f8aa69c0846ebf669bddaea7aaac8.js",
+    "service-worker.js": "/base-project-reactjs/service-worker.js",
+    "static/css/2.4358233e.chunk.css.map": "/base-project-reactjs/static/css/2.4358233e.chunk.css.map",
+    "static/css/main.b22c0019.chunk.css.map": "/base-project-reactjs/static/css/main.b22c0019.chunk.css.map"
+  }
+}
